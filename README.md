@@ -1,4 +1,4 @@
-# Week2BasicPortfolioChallenge
+# Week 2 Basic Portfolio Challenge
 Simple Portfolio Using CSS, HTML, and Javascript 
 
 ![JS](https://img.shields.io/badge/JavaScript-59%25-yellow)
