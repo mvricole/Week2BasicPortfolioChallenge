@@ -7,7 +7,8 @@ Simple Portfolio Using CSS, HTML, and Javascript
 ## Introduction
 A key part of an early developer's career is creating a portfolio that displays their projects. Adjacent to a professional resume, a develper's portfolio allows emplyers to gain insight to a prospective employee's skills, creativty and background. It offers developers a chance to share their work with new and existing clients. It is a pivotal part of getting your foot in the door as a junior developer. 
 
-##User Story
+## User Story
+
 ```
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
@@ -35,6 +36,6 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
-##Sample Image
+## Sample Image
 
 ![image](https://user-images.githubusercontent.com/108310424/206961398-64ac57ac-8063-46f6-856a-9d8a6d2aed91.png)
