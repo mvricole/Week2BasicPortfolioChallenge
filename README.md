@@ -1,9 +1,6 @@
 # Week 2 Basic Portfolio Challenge
 Simple Portfolio Using CSS, HTML, and Javascript 
 
-![JS](https://img.shields.io/badge/JavaScript-59%25-yellow)
-![CSS](https://img.shields.io/badge/CSS-10%25-blue) 
-
 ## Introduction
 A key part of an early developer's career is creating a portfolio that displays their projects. Adjacent to a professional resume, a develper's portfolio allows emplyers to gain insight to a prospective employee's skills, creativty and background. It offers developers a chance to share their work with new and existing clients. It is a pivotal part of getting your foot in the door as a junior developer. 
 
